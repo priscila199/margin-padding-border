@@ -5,6 +5,6 @@ Projeto para exemplificar o uso de margin, padding e border usando HTML e CSS.
 
 [<img src="./resultado.jpg" alt="margin, padding e border usando HTML e CSS">](https://priscila199.github.io/margin-padding-border/)
 
-## Tecnologia Utilizada
+## Tecnologias Utilizadas
 - HTML
 - CSS
